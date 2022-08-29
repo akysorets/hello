@@ -2,7 +2,8 @@
 
 int main(void)  {
 
-    printf("Albina Kysorets");
-    
-    return=0;
+    printf("Albina Kysorets!\n");
+    printf("Computer Engineering\n");
+
+    return 0;
 }
